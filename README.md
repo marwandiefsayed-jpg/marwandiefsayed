@@ -1,65 +1,51 @@
-# <p align="center"> 🏛️ **MARWAN DEIF** </p>
-## <p align="center"> Software Architect & Embedded Systems Consultant </p>
+# <p align="center"> ✨ **MARWAN DEIF** ✨ </p>
+<p align="center"> 🚀 <b>Full-Stack Developer | IoT & Embedded Systems Engineer</b> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-EGYPT-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/IATS-Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-Smart_Training-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Problem_Solving-orange?style=flat-square" />
 </p>
 
 ---
 
-### 🛡️ **EXECUTIVE SUMMARY**
-> **"Bridging the gap between hardware capabilities and software scalability to deliver market-ready solutions."**
+### 🟢 **ABOUT_ME**
+> مبرمج بيحب يربط الهاردوير بالسوفوير. بشتغل على مشاريع كاملة من أول الدوائر الكهربائية لحد موبايل أبلكيشن بـ Flutter.
 
-* 💼 **Full-Stack Development:** Expert in **Flutter** & **ASP.NET Core (MVC/Web API)**.
-* 🛰️ **Hardware Innovation:** Specialized in **IoT** & **Embedded Systems** (Arduino/C++).
-* 🧠 **Problem Solving:** Dedicated to architectural efficiency and code optimization.
-* 🚀 **Active Project:** Developing a **Smart Training Solution** for the cycling industry.
+* 📱 **Mobile:** Expert in **Flutter & Dart**.
+* ⚙️ **Backend:** Building APIs with **ASP.NET Core (MVC)**.
+* 🔌 **Hardware:** Specialist in **Arduino & Embedded Systems**.
+* 🧠 **Logic:** Advanced **Problem Solving** & Algorithms.
 
 ---
 
-### 🛠️ **CORE COMPETENCIES**
+### 🛠️ **TECH_STACK**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dotnet,cs,cpp,arduino,mysql,firebase,visualstudio,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,cpp,arduino,mysql,firebase,visualstudio,vscode,git&perline=11" />
 </div>
 
-<br>
+---
 
-| Domain | Expert Proficiency |
-| :--- | :--- |
-| **Architectural Patterns** | MVC, Repository Pattern, Web APIs |
-| **Mobile Systems** | Cross-platform development with Flutter |
-| **Embedded Intelligence** | Real-time Sensor Integration & IoT |
-| **Data Strategy** | Entity Framework Core & SQL Management |
+### 🚀 **ACTIVE_PROJECTS**
+* 🚴 **Smart Training Solution:** مشروع لتطوير اتزان راكبي الدراجات باستخدام سنسورز وموبايل أبلكيشن.
+* 📚 **Current Mission:** مخلص 80% من خطة الـ 82 درس (Deadline: 30 May).
 
 ---
 
-### 📈 **PERFORMANCE ANALYTICS**
+### 📊 **MY_STATS**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwandiefsayed&show_icons=true&theme=vivid&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwandiefsayed&layout=compact&theme=vivid&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marwandiefsayed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwandiefsayed&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🏗️ **ACADEMIC & PROFESSIONAL GRIND**
-- 🎓 **International Applied Technical Schools (IATS)**
-- 🎯 **Q2 2026 Goal:** Completing 82 advanced technical modules by **May 30th**.
-- 🛠️ **Status:** `80% COMPLETE [████████░░]`
-
----
-
-### 📡 **PROFESSIONAL NETWORK**
+### 📡 **CONNECT_WITH_ME**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><b>LinkedIn</b></a> • 
+  <a href="mailto:your_email@gmail.com"><b>Email</b></a>
 </p>
 
----
-<p align="center">
-  <code>// Simplicity is the ultimate sophistication.</code>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+</div>
