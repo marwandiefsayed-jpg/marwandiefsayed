@@ -1,39 +1,36 @@
-# <p align="center"> ⚡ <b>[ ARCHITECT_LEVEL: DIVINE ]</b> ⚡ </p>
+# <p align="center"> ⚡ **MARWAN DEIF | THE ARCHITECT** ⚡ </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kore&color=000000&height=300&section=header&text=MARWAN%20DEIF&fontSize=90&animation=fadeIn&fontColor=00FF00&desc=%E2%9C%A1%20FLUTTER%20%7C%20IOT%20%7C%20MVC%20%7C%20EMBEDDED%20%E2%9C%A1&descSize=25&descAlignY=70&descColor=ffffff" />
+  <img src="https://v-st.github.io/capsule-render?type=kore&color=000000&height=250&section=header&text=MARWAN%20DEIF&fontSize=80&fontColor=00FF00&desc=%5B%20FLUTTER%20%7C%20IOT%20%7C%20MVC%20%5D&descSize=20&descColor=ffffff" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USER_NAME]&label=CORE_ACCESS&color=00FF00&style=for-the-badge" />
-</p>
 
 ---
 
-## 🛰️ // MISSION_CONTROL: THE_BRIDGE
-> **"Turning silicon and electricity into intelligent logic."**
-
+### 🛰️ // MISSION_CONTROL: THE_BRIDGE
 | **Hardware Layer** | **Backend Logic** | **Frontend Interface** |
 | :--- | :--- | :--- |
 | 🔌 **IoT / Embedded** | ⚙️ **MVC / Web API** | 📱 **Flutter / Dart** |
-| Arduino & C++ Engineering | ASP.NET Core Architecture | Multi-Platform Ecosystems |
-| Sensor Fusion & UART | SQL & Entity Framework | Advanced UI/UX State |
+| Arduino & C++ | ASP.NET Core | Multi-Platform Apps |
 
 ---
 
-## 🛠️ // THE_ARSENAL: STATUS_LOADED
+### 🛠️ // THE_ARSENAL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,cpp,arduino,firebase,mysql,postman,visualstudio,vscode,git,github,githubactions&perline=7" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,cpp,arduino,mysql,firebase,visualstudio,vscode,git&perline=11" />
 </p>
 
 ---
 
-## 🧪 // CURRENT_EXPERIMENT: SMART_TRAINING_SOLUTION
-```json
-{
-  "Subject": "Marwan Deif",
-  "Status": "Optimizing_Realtime_Balance_Algorithms",
-  "Target": "82_Academic_Modules",
-  "Deadline": "2026-05-30",
-  "Progress": "80% [||||||||--]"
-}
+### 📊 // PERFORMANCE_LOGS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+  <br>
+  <code>// Code is the only universal language.</code>
+</div>
