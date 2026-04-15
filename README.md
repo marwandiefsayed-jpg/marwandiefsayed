@@ -1,51 +1,41 @@
-# <p align="center"> ⚡ MARWAN DEIF | THE SYSTEM ARCHITECT ⚡ </p>
+# <p align="center">─── 💠 **CORE_OS: MARWAN_DEIF_v2.6** 💠 ───</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dotnet,cs,cpp,arduino,firebase,mysql,postman,visualstudio,vscode,git&perline=11" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=220&section=header&text=SYSTEM%20ARCHITECT&fontSize=70&fontColor=00FF00&animation=twinkling&desc=Flutter%20%E2%80%A2%20.NET%20Core%20%E2%80%A2%20IoT%20%E2%80%A2%20Embedded&descSize=20&descColor=A9A9A9" />
 </div>
 
----
-
-### 🟢 MONITORING_SYSTEM_STATUS
-> **"Turning logic into hardware movement and pixels."**
-
-* 🛠️ **Embedded & IoT:** Architecting the core with **C++** and **Arduino**.
-* 📱 **Mobile/Desktop:** Building the interface with **Flutter & Dart**.
-* 🌐 **Backend Logic:** Scaling with **ASP.NET Core MVC & Web APIs**.
-* 🧠 **Problem Solving:** Optimizing algorithms for maximum efficiency.
-* 🗄️ **Data Flow:** Orchestrating **Databases** and **EF Core** migrations.
-
----
-
-### 🚀 ACTIVE_DEPLOYMENTS
-* 🚴 **Project:** `Smart Training Solution`
-  - *Description:* Integrating IoT sensors with Flutter for real-time cyclist stability.
-  - *Status:* `STABILIZING_CORE_LOGIC`
-
-* 📚 **Academic Milestone:**
-  - *Task:* 82 Technical Modules.
-  - *Deadline:* `MAY_30_2026`
-  - *Progress:* [ ████████░░ ] 80%
-
----
-
-### 📊 ANALYTICS_CORE
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### 📡 ESTABLISH_COMMUNICATION
+### 📥 // SYSTEM_INITIALIZATION
+> `[LOG]` : Marwan is bridging the gap between physical sensors and digital interfaces.
+
+- 📱 **UI/UX ARCHITECT:** Expert-level **Flutter** (Mobile/Desktop) with complex state management.
+- ⚙️ **BACKEND CORE:** Designing **RESTful APIs** using **ASP.NET Core (MVC & Web API)**.
+- 🔌 **HARDWARE LAYER:** **Embedded Systems** & **IoT** enthusiast (Arduino/C++ Engineer).
+- 🧩 **LOGIC ENGINE:** Advanced **Problem Solving** & **Code Refactoring** Specialist.
+- 🗄️ **DATA PERSISTENCE:** Architecting **SQL Databases** with **EF Core** migrations.
+
+---
+
+### 🛡️ // THE_TECH_STACK_TOPOLOGY
 <p align="center">
-  <a href="https://linkedin.com/in/[LINKEDIN_ID]"><b>LINKEDIN</b></a> • 
-  <a href="mailto:your_email@example.com"><b>GMAIL</b></a> • 
-  <a href="#"><b>PORTFOLIO</b></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,cpp,arduino,firebase,mysql,sqlite,postman,visualstudio,vscode,git,github,githubactions&perline=8" />
+  </a>
 </p>
 
 ---
-<div align="center">
-  <code>// Hardware is the body, Software is the soul, Logic is the bridge.</code>
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+
+### 🚀 // CURRENT_TRANSMISSIONS
+```typescript
+const CurrentProject = {
+  name: "Smart Training Solution",
+  niche: "Cycling IoT & Stability",
+  hardware: ["Arduino", "Bluetooth_LE", "IMU_Sensors"],
+  software: ["Flutter_Provider", "Real-time_Data_Visualizer"],
+  status: "Optimizing_Control_Loops" // 🔄 82 Lessons Grind: 80% Complete
+};
