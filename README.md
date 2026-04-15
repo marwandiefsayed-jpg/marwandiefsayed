@@ -1,71 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=300&section=header&text=MARWAN%20DEIF&fontSize=90&animation=fadeIn&fontColor=00FF00&desc=%E2%9A%A1%20Architecting%20Digital%20Reality%20%7C%20Full-Stack%20%26%20IoT%20%E2%9A%A1&descSize=25&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=250&section=header&text=MARWAN%20DEIF&fontSize=80&fontColor=D4AF37&animation=fadeIn&desc=Software%20Engineer%20%7C%20Embedded%20Systems%20Architect&descSize=20&descAlignY=70&descColor=A9A9A9" />
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=[USER_NAME]&label=ENCRYPTED%20ACCESS&color=D4AF37&style=for-the-badge" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USER_NAME]&label=SYSTEM%20ACCESSES&color=00FF00&style=flat-square" alt="Views" />
-</p>
-
 ---
 
-## 🛰️ SYSTEM_OVERVIEW // الملف الشخصي
-<table align="center">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🚀 Current Mission</h3>
-      <ul>
-        <li><b>Academy:</b> International Applied Technical Schools (IATS)</li>
-        <li><b>Focus:</b> Mobile Apps (Flutter) & Backend (.NET Core)</li>
-        <li><b>Hardware:</b> Arduino & IoT System Design</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🛠️ Project Status: [Smart_Training]</h3>
-      <ul>
-        <li><b>Target:</b> Core Stability for Cyclists 🚴‍♂️</li>
-        <li><b>Tech:</b> Bluetooth + Sensors Integration</li>
-        <li><b>Deadline:</b> 82 Lessons before May 30th 🏁</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ TECH_ARSENAL // أسلحة الكود
+## 🏛️ ARCHITECTURE // نبذة عني
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dotnet,cs,cpp,arduino,firebase,mysql,visualstudio,vscode&perline=9" />
-  </a>
-</p>
-
----
-
-## 📊 ANALYTICS_CORE // تحليل البيانات
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=neon&hide_border=true" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USER_NAME]&theme=neon&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🌑 THE_GRID // حالة النشاط
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USER_NAME]&theme=github-compact&color=00FF00&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 📨 TRANSMIT_SIGNAL // تواصل معي
-<p align="center">
-  <a href="https://linkedin.com/in/[LINKEDIN_ID]"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=00FF00&logoWidth=20" /></a>
-  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=00FF00&logoWidth=20" /></a>
+  <b>Creative Full-Stack Developer</b> specializing in <b>Flutter</b> & <b>.NET Core</b>.<br>
+  Bridging the gap between <i>Software</i> and <i>Hardware</i> through <b>IoT</b>.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+  <table>
+    <tr>
+      <td width="33%" align="center"><b>PROJECTS</b><br>30+</td>
+      <td width="33%" align="center"><b>EXPERIENCE</b><br>IATS Scholar</td>
+      <td width="33%" align="center"><b>FOCUS</b><br>Smart Solutions</td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 🛠️ THE TOOLKIT // الترسانة التقنية
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,cs,cpp,arduino,firebase,mysql,visualstudio,vscode&theme=dark" />
+</div>
+
+---
+
+## 💎 ELITE METRICS // مؤشرات الأداء
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=transparent&custom_title=System%20Capabilities&text_color=D4AF37&icon_color=D4AF37&title_color=D4AF37&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=transparent&text_color=D4AF37&title_color=D4AF37&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[USER_NAME]&theme=transparent&currStreakNum=D4AF37&sideLabels=D4AF37&sideNums=D4AF37&dates=A9A9A9&fire=D4AF37&hide_border=true" />
+</div>
+
+---
+
+## 🌌 LIVE FEED // حالة النشاط
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USER_NAME]&theme=react-dark&color=D4AF37&hide_border=true&area=true&bg_color=1a1a1a" width="100%" />
+</div>
+
+---
+
+## 🔗 SECURE TERMINAL // اتصل بي
+<div align="center">
+  <a href="https://linkedin.com/in/[LINKEDIN_ID]"><img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/GMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+</div>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.gif" width="100%">
+</p>
