@@ -1,4 +1,4 @@
-# <p align="center"> ✨ **MARWAN DEIF** ✨ </p>
+# <p align="center">  **MARWAN DEIF** </p>
 <p align="center"> 🚀 <b>Full-Stack Developer | IoT & Embedded Systems Engineer</b> </p>
 
 <p align="center">
@@ -10,8 +10,6 @@
 ---
 
 ### 🟢 **ABOUT_ME**
-> مبرمج بيحب يربط الهاردوير بالسوفوير. بشتغل على مشاريع كاملة من أول الدوائر الكهربائية لحد موبايل أبلكيشن بـ Flutter.
-
 * 📱 **Mobile:** Expert in **Flutter & Dart**.
 * ⚙️ **Backend:** Building APIs with **ASP.NET Core (MVC)**.
 * 🔌 **Hardware:** Specialist in **Arduino & Embedded Systems**.
@@ -27,8 +25,7 @@
 ---
 
 ### 🚀 **ACTIVE_PROJECTS**
-* 🚴 **Smart Training Solution:** مشروع لتطوير اتزان راكبي الدراجات باستخدام سنسورز وموبايل أبلكيشن.
-* 📚 **Current Mission:** مخلص 80% من خطة الـ 82 درس (Deadline: 30 May).
+* 🚴 **Smart Training Solution:** A project to improve the balance of cyclists using sensors
 
 ---
 
